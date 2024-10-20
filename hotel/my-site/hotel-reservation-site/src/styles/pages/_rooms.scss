@@ -1,0 +1,8 @@
+
+.rooms-container{
+    @extend .p-15;
+    @include spacebetween-flex;
+    flex-wrap: wrap;
+    gap:20px;
+    
+}
